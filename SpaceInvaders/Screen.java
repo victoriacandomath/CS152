@@ -1,7 +1,6 @@
 /*****************************************
  * Assignment 2
- * Name: Victoria Varela & Austin Preston
- * E-mail: victoriia25@unm.edu, apreston3@unm.edu
+ * Name: Victoria & Austin
  * Course: CS 152 - Section 002
  * Submitted: 12/2/2020
  *
