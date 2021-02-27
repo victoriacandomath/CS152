@@ -1,5 +1,4 @@
 /*****************************************
- * Assignment 2
  * Name: Victoria & Austin
  * Course: CS 152 - Section 002
  * Submitted: 12/2/2020
